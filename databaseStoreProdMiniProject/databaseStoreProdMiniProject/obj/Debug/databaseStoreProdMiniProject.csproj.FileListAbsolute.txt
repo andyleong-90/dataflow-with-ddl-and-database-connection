@@ -1,0 +1,9 @@
+C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\bin\Debug\databaseStoreProdMiniProject.dll
+C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\bin\Debug\databaseStoreProdMiniProject.pdb
+C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\obj\Debug\databaseStoreProdMiniProject.csproj.CoreCompileInputs.cache
+C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\obj\Debug\databaseStoreProdMiniProject.dll
+C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\obj\Debug\databaseStoreProdMiniProject.pdb
+C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\bin\Debug\NLog.dll
+C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\bin\Debug\NLog.xml
+C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\obj\Debug\databaseStoreProdMiniProject.csprojResolveAssemblyReference.cache
+C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\obj\Debug\databaseStoreProdMiniProject.csproj.CopyComplete
