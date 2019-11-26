@@ -1,0 +1,821 @@
+2019-09-11 17:01:33.0140|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-11 17:01:35.2813|ERROR|FormMiniProject.DisplaySearch|qwerty123
+2019-09-11 17:02:04.8590|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-11 17:02:05.2116|ERROR|FormMiniProject.DisplaySearch|qwerty123
+2019-09-11 17:02:05.9587|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-11 17:02:06.3827|ERROR|FormMiniProject.DisplaySearch|qwerty123
+2019-09-11 17:08:59.0761|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-11 17:08:59.1902|ERROR|FormMiniProject.DisplaySearch|   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 42
+2019-09-11 17:08:59.2577|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-11 17:08:59.2742|ERROR|FormMiniProject.DisplaySearch|   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 42
+2019-09-11 17:11:27.1694|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-11 17:11:27.2425|ERROR|FormMiniProject.DisplaySearch|ExecuteReader requires an open and available Connection. The connection's current state is closed.
+2019-09-11 17:11:27.2785|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-11 17:11:27.2965|ERROR|FormMiniProject.DisplaySearch|ExecuteReader requires an open and available Connection. The connection's current state is closed.
+2019-09-11 17:12:50.7826|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-11 17:12:50.8346|ERROR|FormMiniProject.DisplaySearch|Message123
+2019-09-11 17:12:50.8501|ERROR|FormMiniProject.DisplaySearch|Stacktrace123
+2019-09-11 17:12:50.8786|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-11 17:12:50.8961|ERROR|FormMiniProject.DisplaySearch|Message123
+2019-09-11 17:12:50.9051|ERROR|FormMiniProject.DisplaySearch|Stacktrace123
+2019-09-11 17:13:31.9733|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-11 17:13:32.0373|ERROR|FormMiniProject.DisplaySearch|ExecuteReader requires an open and available Connection. The connection's current state is closed.
+2019-09-11 17:13:32.0548|ERROR|FormMiniProject.DisplaySearch|   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 42
+2019-09-11 17:13:32.0863|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-11 17:13:32.1058|ERROR|FormMiniProject.DisplaySearch|ExecuteReader requires an open and available Connection. The connection's current state is closed.
+2019-09-11 17:13:32.1058|ERROR|FormMiniProject.DisplaySearch|   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 42
+2019-09-11 17:15:10.6938|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-11 17:15:10.7573|ERROR|FormMiniProject.DisplaySearch|ExecuteReader requires an open and available Connection. The connection's current state is closed.
+2019-09-11 17:15:10.7703|ERROR|FormMiniProject.DisplaySearch|   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 42
+2019-09-11 17:15:10.8073|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-11 17:15:10.8343|ERROR|FormMiniProject.DisplaySearch|ExecuteReader requires an open and available Connection. The connection's current state is closed.
+2019-09-11 17:15:10.8468|ERROR|FormMiniProject.DisplaySearch|   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 42
+2019-09-11 17:16:49.7259|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-11 17:16:49.7799|ERROR|FormMiniProject.DisplaySearch|System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 42
+2019-09-11 17:16:49.8199|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-11 17:16:49.8389|ERROR|FormMiniProject.DisplaySearch|System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 42
+2019-09-12 14:56:02.3996|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-12 14:56:02.4961|ERROR|FormMiniProject.DisplaySearch|System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 42
+2019-09-12 14:56:02.5627|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-12 14:56:02.5817|ERROR|FormMiniProject.DisplaySearch|System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 42
+2019-09-12 14:57:35.2499|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-12 14:57:35.3059|ERROR|FormMiniProject.DisplaySearch|System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 42
+2019-09-12 14:57:35.3444|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-12 14:57:35.3624|ERROR|FormMiniProject.DisplaySearch|System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 42
+2019-09-12 14:58:31.7811|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-12 14:58:31.8361|ERROR|FormMiniProject.DisplaySearch|System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 42
+2019-09-12 14:58:31.8741|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-12 14:58:31.8961|ERROR|FormMiniProject.DisplaySearch|System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 42
+2019-09-12 14:59:03.1066|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-12 14:59:03.1776|ERROR|FormMiniProject.DisplaySearch|System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 42
+2019-09-12 14:59:03.2176|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-12 14:59:03.2371|ERROR|FormMiniProject.DisplaySearch|System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 42
+2019-09-12 15:40:07.7181|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-12 15:40:07.7826|ERROR|FormMiniProject.DisplaySearch|System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 43
+2019-09-12 15:40:10.9825|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-12 15:40:11.0025|ERROR|FormMiniProject.DisplaySearch|System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 43
+2019-09-12 15:40:35.2480|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-12 15:40:35.3001|ERROR|FormMiniProject.DisplaySearch|System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 43
+2019-09-12 15:40:37.6003|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-12 15:40:37.6188|ERROR|FormMiniProject.DisplaySearch|System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 43
+2019-09-12 17:21:56.8073|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-12 17:21:56.8603|ERROR|FormMiniProject.DisplaySearch|System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 43
+2019-09-12 17:21:58.3785|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-12 17:21:58.3985|ERROR|FormMiniProject.DisplaySearch|System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 43
+2019-09-12 17:24:15.6749|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-12 17:24:19.3189|ERROR|FormMiniProject.DisplaySearch|System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 43
+2019-09-12 17:24:30.5348|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-12 17:24:33.6227|ERROR|FormMiniProject.DisplaySearch|System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 43
+2019-09-12 17:25:49.6169|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-12 17:25:52.1857|ERROR|FormMiniProject.DisplaySearch|System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 43
+2019-09-12 17:27:09.4965|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-12 17:27:11.4783|ERROR|FormMiniProject.DisplaySearch|System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-12 17:27:20.6174|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-12 17:27:23.2013|ERROR|FormMiniProject.DisplaySearch|System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-12 17:27:53.7636|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-12 17:27:55.3723|ERROR|FormMiniProject.DisplaySearch|System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-12 17:28:17.9412|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-12 17:28:19.7504|ERROR|FormMiniProject.DisplaySearch|System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-12 17:28:28.3310|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-12 17:28:33.3477|ERROR|FormMiniProject.DisplaySearch|System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-12 17:36:41.1321|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-12 17:36:43.2759|ERROR|FormMiniProject.DisplaySearch|System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-12 17:36:59.9465|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-12 17:37:01.4907|ERROR|FormMiniProject.DisplaySearch|System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-12 17:38:10.9720|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-12 17:38:12.3202|ERROR|FormMiniProject.DisplaySearch|System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-12 17:38:36.2117|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-12 17:38:37.1743|ERROR|FormMiniProject.DisplaySearch|System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-12 17:39:31.4087|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-12 17:39:32.7139|ERROR|FormMiniProject.DisplaySearch|System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-12 17:39:43.1557|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-12 17:39:46.3206|ERROR|FormMiniProject.DisplaySearch|System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-12 17:40:55.1279|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-12 17:40:56.5595|ERROR|FormMiniProject.DisplaySearch|System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-12 17:41:00.9991|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-12 17:41:02.8798|ERROR|FormMiniProject.DisplaySearch|System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-12 17:45:39.9745|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-12 17:45:40.4601|ERROR|FormMiniProject.DisplaySearch|System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-12 17:45:45.3422|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-12 17:45:46.9789|ERROR|FormMiniProject.DisplaySearch|System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-12 17:48:56.0784|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-12 17:49:01.5416|ERROR|FormMiniProject.DisplaySearch|System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-12 17:49:10.0177|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-12 17:49:16.9301|ERROR|FormMiniProject.DisplaySearch|System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-12 17:50:18.3269|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-12 17:50:19.6305|ERROR|FormMiniProject.DisplaySearch|System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-12 17:50:26.3129|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-12 17:50:27.5945|ERROR|FormMiniProject.DisplaySearch|System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-12 17:54:59.0170|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-12 17:55:02.2254|ERROR|FormMiniProject.DisplaySearch|System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-12 17:56:25.3350|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-12 17:56:28.1833|ERROR|FormMiniProject.DisplaySearch|System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-12 17:56:30.0941|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-12 17:56:37.5705|ERROR|FormMiniProject.DisplaySearch|System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-12 17:57:11.7039|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-12 17:57:12.6435|ERROR|FormMiniProject.DisplaySearch|System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-12 17:57:14.0477|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-12 17:57:14.7743|ERROR|FormMiniProject.DisplaySearch|System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-12 17:57:52.1490|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-12 17:57:52.9856|ERROR|FormMiniProject.DisplaySearch|System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-12 17:57:56.1980|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-12 17:57:57.5222|ERROR|FormMiniProject.DisplaySearch|System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-12 18:04:34.7591|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-12 18:09:07.8183|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-12 18:09:13.0595|ERROR|FormMiniProject.DisplaySearch|System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-12 18:09:26.4622|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-12 18:09:27.9139|ERROR|FormMiniProject.DisplaySearch|System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-12 18:10:41.6997|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-12 18:10:45.0892|ERROR|FormMiniProject.DisplaySearch|System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-13 09:54:12.3164|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-13 09:54:12.3779|ERROR|FormMiniProject.DisplaySearch|System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-13 10:14:06.8710|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-13 10:14:06.9421|ERROR|FormMiniProject.DisplaySearch|System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-13 10:14:08.6303|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-13 10:14:08.6498|ERROR|FormMiniProject.DisplaySearch|System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-13 10:14:10.1425|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-13 10:14:10.1620|ERROR|FormMiniProject.DisplaySearch|System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-13 10:20:19.2758|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-13 10:20:19.3423|ERROR|FormMiniProject.DisplaySearch|System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-13 10:20:20.6555|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-13 10:20:20.6745|ERROR|FormMiniProject.DisplaySearch|System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-13 10:20:21.6886|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-13 10:20:21.7091|ERROR|FormMiniProject.DisplaySearch|System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-13 10:23:29.0829|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-13 10:23:29.1344|ERROR|FormMiniProject.DisplaySearch|System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-13 10:23:30.5706|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-13 10:23:30.5891|ERROR|FormMiniProject.DisplaySearch|System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-13 10:23:33.1870|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-13 10:23:33.2060|ERROR|FormMiniProject.DisplaySearch|System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-13 10:24:04.3959|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-13 10:24:04.4519|ERROR|FormMiniProject.DisplaySearch|System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-13 10:24:09.6476|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-13 10:24:09.6666|ERROR|FormMiniProject.DisplaySearch|System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-13 10:24:10.8467|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-13 10:24:10.8657|ERROR|FormMiniProject.DisplaySearch|System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-13 10:24:47.8204|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-13 10:24:47.8884|ERROR|FormMiniProject.DisplaySearch|System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-13 10:24:50.7563|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-13 10:24:50.7763|ERROR|FormMiniProject.DisplaySearch|System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-13 10:24:51.3799|ERROR|databaseStoreProdMiniProject.dataBaseFunction|qwerty123098
+2019-09-13 10:24:51.3994|ERROR|FormMiniProject.DisplaySearch|System.InvalidOperationException: ExecuteReader requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader()
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 58
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-24 10:39:08.5347|ERROR|FormMiniProject.DisplaySearch|System.FormatException: The string was not recognized as a valid DateTime. There is an unknown word starting at index 0.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value, IFormatProvider provider)
+   at System.String.System.IConvertible.ToDateTime(IFormatProvider provider)
+   at System.Convert.ToDateTime(Object value)
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 66
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-24 10:39:10.1349|ERROR|FormMiniProject.DisplaySearch|System.FormatException: The string was not recognized as a valid DateTime. There is an unknown word starting at index 0.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value, IFormatProvider provider)
+   at System.String.System.IConvertible.ToDateTime(IFormatProvider provider)
+   at System.Convert.ToDateTime(Object value)
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 66
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-24 10:39:10.7075|ERROR|FormMiniProject.DisplaySearch|System.FormatException: The string was not recognized as a valid DateTime. There is an unknown word starting at index 0.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value, IFormatProvider provider)
+   at System.String.System.IConvertible.ToDateTime(IFormatProvider provider)
+   at System.Convert.ToDateTime(Object value)
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 66
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-24 10:39:17.2713|ERROR|FormMiniProject.DisplaySearch|System.FormatException: The string was not recognized as a valid DateTime. There is an unknown word starting at index 0.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value, IFormatProvider provider)
+   at System.String.System.IConvertible.ToDateTime(IFormatProvider provider)
+   at System.Convert.ToDateTime(Object value)
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 66
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-24 10:39:18.4070|ERROR|FormMiniProject.DisplaySearch|System.FormatException: The string was not recognized as a valid DateTime. There is an unknown word starting at index 0.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value, IFormatProvider provider)
+   at System.String.System.IConvertible.ToDateTime(IFormatProvider provider)
+   at System.Convert.ToDateTime(Object value)
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 66
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-24 10:39:18.6865|ERROR|FormMiniProject.DisplaySearch|System.FormatException: The string was not recognized as a valid DateTime. There is an unknown word starting at index 0.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value, IFormatProvider provider)
+   at System.String.System.IConvertible.ToDateTime(IFormatProvider provider)
+   at System.Convert.ToDateTime(Object value)
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 66
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-24 10:40:00.4653|ERROR|FormMiniProject.DisplaySearch|System.FormatException: The string was not recognized as a valid DateTime. There is an unknown word starting at index 0.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value, IFormatProvider provider)
+   at System.String.System.IConvertible.ToDateTime(IFormatProvider provider)
+   at System.Convert.ToDateTime(Object value)
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 66
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-24 10:40:07.2427|ERROR|FormMiniProject.DisplaySearch|System.FormatException: The string was not recognized as a valid DateTime. There is an unknown word starting at index 0.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value, IFormatProvider provider)
+   at System.String.System.IConvertible.ToDateTime(IFormatProvider provider)
+   at System.Convert.ToDateTime(Object value)
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 66
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-24 10:40:08.5403|ERROR|FormMiniProject.DisplaySearch|System.FormatException: The string was not recognized as a valid DateTime. There is an unknown word starting at index 0.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value, IFormatProvider provider)
+   at System.String.System.IConvertible.ToDateTime(IFormatProvider provider)
+   at System.Convert.ToDateTime(Object value)
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 66
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-24 10:41:10.2812|ERROR|FormMiniProject.DisplaySearch|System.FormatException: The string was not recognized as a valid DateTime. There is an unknown word starting at index 0.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value, IFormatProvider provider)
+   at System.String.System.IConvertible.ToDateTime(IFormatProvider provider)
+   at System.Convert.ToDateTime(Object value)
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 62
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-24 10:41:18.8368|ERROR|FormMiniProject.DisplaySearch|System.FormatException: The string was not recognized as a valid DateTime. There is an unknown word starting at index 0.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value, IFormatProvider provider)
+   at System.String.System.IConvertible.ToDateTime(IFormatProvider provider)
+   at System.Convert.ToDateTime(Object value)
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 62
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-24 10:41:19.0753|ERROR|FormMiniProject.DisplaySearch|System.FormatException: The string was not recognized as a valid DateTime. There is an unknown word starting at index 0.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value, IFormatProvider provider)
+   at System.String.System.IConvertible.ToDateTime(IFormatProvider provider)
+   at System.Convert.ToDateTime(Object value)
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 62
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-24 10:46:04.3940|ERROR|FormMiniProject.DisplaySearch|System.FormatException: The string was not recognized as a valid DateTime. There is an unknown word starting at index 0.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value, IFormatProvider provider)
+   at System.String.System.IConvertible.ToDateTime(IFormatProvider provider)
+   at System.Convert.ToDateTime(Object value)
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 62
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-24 10:52:47.5107|ERROR|FormMiniProject.DisplaySearch|System.FormatException: The string was not recognized as a valid DateTime. There is an unknown word starting at index 0.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value, IFormatProvider provider)
+   at System.String.System.IConvertible.ToDateTime(IFormatProvider provider)
+   at System.Convert.ToDateTime(Object value)
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 62
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-24 10:52:49.9120|ERROR|FormMiniProject.DisplaySearch|System.FormatException: The string was not recognized as a valid DateTime. There is an unknown word starting at index 0.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value, IFormatProvider provider)
+   at System.String.System.IConvertible.ToDateTime(IFormatProvider provider)
+   at System.Convert.ToDateTime(Object value)
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 62
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-24 10:52:50.4776|ERROR|FormMiniProject.DisplaySearch|System.FormatException: The string was not recognized as a valid DateTime. There is an unknown word starting at index 0.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value, IFormatProvider provider)
+   at System.String.System.IConvertible.ToDateTime(IFormatProvider provider)
+   at System.Convert.ToDateTime(Object value)
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 62
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-24 10:54:58.8279|ERROR|FormMiniProject.DisplaySearch|System.FormatException: The string was not recognized as a valid DateTime. There is an unknown word starting at index 0.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value, IFormatProvider provider)
+   at System.String.System.IConvertible.ToDateTime(IFormatProvider provider)
+   at System.Convert.ToDateTime(Object value)
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 62
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-24 10:55:00.4211|ERROR|FormMiniProject.DisplaySearch|System.FormatException: The string was not recognized as a valid DateTime. There is an unknown word starting at index 0.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value, IFormatProvider provider)
+   at System.String.System.IConvertible.ToDateTime(IFormatProvider provider)
+   at System.Convert.ToDateTime(Object value)
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 62
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-24 10:55:01.6297|ERROR|FormMiniProject.DisplaySearch|System.FormatException: The string was not recognized as a valid DateTime. There is an unknown word starting at index 0.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value, IFormatProvider provider)
+   at System.String.System.IConvertible.ToDateTime(IFormatProvider provider)
+   at System.Convert.ToDateTime(Object value)
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 62
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-24 10:55:39.1530|ERROR|FormMiniProject.InsertUser|qwerty123
+2019-09-24 10:57:16.2483|ERROR|FormMiniProject.DisplaySearch|System.FormatException: The string was not recognized as a valid DateTime. There is an unknown word starting at index 0.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value, IFormatProvider provider)
+   at System.String.System.IConvertible.ToDateTime(IFormatProvider provider)
+   at System.Convert.ToDateTime(Object value)
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 62
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-24 10:57:17.6780|ERROR|FormMiniProject.DisplaySearch|System.FormatException: The string was not recognized as a valid DateTime. There is an unknown word starting at index 0.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value, IFormatProvider provider)
+   at System.String.System.IConvertible.ToDateTime(IFormatProvider provider)
+   at System.Convert.ToDateTime(Object value)
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 62
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-24 10:57:18.1426|ERROR|FormMiniProject.DisplaySearch|System.FormatException: The string was not recognized as a valid DateTime. There is an unknown word starting at index 0.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value, IFormatProvider provider)
+   at System.String.System.IConvertible.ToDateTime(IFormatProvider provider)
+   at System.Convert.ToDateTime(Object value)
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 62
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-24 11:35:27.2627|ERROR|FormMiniProject.DisplaySearch|System.FormatException: The string was not recognized as a valid DateTime. There is an unknown word starting at index 0.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value, IFormatProvider provider)
+   at System.String.System.IConvertible.ToDateTime(IFormatProvider provider)
+   at System.Convert.ToDateTime(Object value)
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 62
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-24 11:35:28.5514|ERROR|FormMiniProject.DisplaySearch|System.FormatException: The string was not recognized as a valid DateTime. There is an unknown word starting at index 0.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value, IFormatProvider provider)
+   at System.String.System.IConvertible.ToDateTime(IFormatProvider provider)
+   at System.Convert.ToDateTime(Object value)
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 62
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44
+2019-09-24 11:35:29.0155|ERROR|FormMiniProject.DisplaySearch|System.FormatException: The string was not recognized as a valid DateTime. There is an unknown word starting at index 0.
+   at System.DateTimeParse.Parse(String s, DateTimeFormatInfo dtfi, DateTimeStyles styles)
+   at System.Convert.ToDateTime(String value, IFormatProvider provider)
+   at System.String.System.IConvertible.ToDateTime(IFormatProvider provider)
+   at System.Convert.ToDateTime(Object value)
+   at databaseStoreProdMiniProject.dataBaseFunction.getAllData() in C:\Users\andy\source\repos\databaseStoreProdMiniProject\databaseStoreProdMiniProject\dataBaseFunction.cs:line 62
+   at FormMiniProject.DisplaySearch.DisplaySearch_Load(Object sender, EventArgs e) in C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\DisplaySearch.cs:line 44

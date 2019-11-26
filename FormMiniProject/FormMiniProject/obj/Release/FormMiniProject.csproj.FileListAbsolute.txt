@@ -1,0 +1,17 @@
+C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\bin\Release\NLog.config
+C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\bin\Release\FormMiniProject.exe.config
+C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\bin\Release\FormMiniProject.exe
+C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\bin\Release\FormMiniProject.pdb
+C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\bin\Release\databaseStoreProdMiniProject.dll
+C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\bin\Release\NLog.dll
+C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\bin\Release\databaseStoreProdMiniProject.pdb
+C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\bin\Release\NLog.xml
+C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\obj\Release\FormMiniProject.DisplaySearch.resources
+C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\obj\Release\FormMiniProject.miniProjectForm.resources
+C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\obj\Release\FormMiniProject.InsertUser.resources
+C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\obj\Release\FormMiniProject.Properties.Resources.resources
+C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\obj\Release\FormMiniProject.csproj.GenerateResource.cache
+C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\obj\Release\FormMiniProject.csproj.CoreCompileInputs.cache
+C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\obj\Release\FormMiniProject.csproj.CopyComplete
+C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\obj\Release\FormMiniProject.exe
+C:\Users\andy\source\repos\FormMiniProject\FormMiniProject\obj\Release\FormMiniProject.pdb
